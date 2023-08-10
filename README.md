@@ -6,6 +6,6 @@
 
 Run:
 
-``wget https://raw.githubusercontent.com/suntrackspb/rus-dir-rename/master/main.py && python3 main.py``
+``wget https://raw.githubusercontent.com/suntrackspb/mvFolders/master/main.py && python3 main.py``
 
 ``xdg-user-dirs-update # for create default user folder``
